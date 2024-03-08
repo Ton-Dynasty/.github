@@ -4,44 +4,31 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 
 ## Our Projects
 ### Ticton
+
+#### ticton-v0
+- **Description:** Innovative price oracle for TON.
+- **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-v0](https://github.com/Ton-Dynasty/ticton-v0)
+
 #### ticton-python-sdk
 - **Description:** A comprehensive SDK for developers looking to integrate or interact with the TicTon Oracle. Enables the crafting of custom quoting strategies using TicTon technology.
 - **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-python-sdk](https://github.com/Ton-Dynasty/ticton-python-sdk)
 
-#### ticton-app
-- **Description:** No description provided. Presumably a core application for utilizing or managing the TicTon Oracle functionalities.
-- **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-app](https://github.com/Ton-Dynasty/ticton-app)
-
 #### ticton-oracle-automation
-- **Description:** Automation tools for the TicTon Oracle, enhancing operational efficiency and reliability. Includes automation scripts for deployment, management, and monitoring.
+- **Description:** This bot is an arbitrage tool that monitors Alarm quotes on the Oracle, comparing TON/USDT's average market price from various exchanges.
 - **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-oracle-automation](https://github.com/Ton-Dynasty/ticton-oracle-automation)
 
 #### ticton-v0-interface
-- **Description:** User interface for the innovative TicTon Oracle on the TON blockchain, offering a seamless and user-friendly experience for interacting with the oracle.
+- **Description:** This is the official website of Tic Ton, which will be updated gradually in the future.
 - **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-v0-interface](https://github.com/Ton-Dynasty/ticton-v0-interface)
 
 #### ticton-playground
-- **Description:** A sandbox environment for developers to test and experiment with TicTon functionalities and integrations. A space for trial, error, and learning.
+- **Description:** This repository hosts the tutorial for the TICTON quote testing. Refer to the document or tutorial video to learn how to quote.
 - **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-playground](https://github.com/Ton-Dynasty/ticton-playground)
 
-#### ticton-v0
-- **Description:** Innovative price oracle for TON, showcasing the unique features and capabilities of the TicTon Oracle. A pivotal component in the TicTon ecosystem for oracle services.
-- **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-v0](https://github.com/Ton-Dynasty/ticton-v0)
 
 ### Eventon
-#### docs.contracts
-- **Language:** MDX
-- **Description:** Ton Dynasty Contracts documents. A comprehensive documentation repository for contracts developed under the Ton Dynasty banner, facilitating understanding and integration for developers.
-- **GitHub URL:** [docs.contracts](https://github.com/Ton-Dynasty/docs.contracts)
-
-#### eventon-frontend
-- **Language:** JavaScript
-- **Description:** The frontend codebase for the Eventon project, focused on providing a seamless user interface for interacting with Eventon's functionalities.
-- **GitHub URL:** [eventon-frontend](https://github.com/Ton-Dynasty/eventon-frontend)
 
 #### eventon
-- **Language:** TypeScript
-- **Keywords:** eventon, ton, tact
 - **Description:** A foundational repository for the Eventon project, encapsulating core functionalities and services designed to enhance the TON blockchain ecosystem.
 - **GitHub URL:** [eventon](https://github.com/Ton-Dynasty/eventon)
 
@@ -49,13 +36,21 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 - **Language:** JavaScript
 - **Description:** Document for Eventon. This repository hosts essential documentation for the Eventon project, aimed at providing users and developers with all the information needed to utilize and contribute to Eventon.
 - **GitHub URL:** [eventon-doc](https://github.com/Ton-Dynasty/eventon-doc)
+  
+#### eventon-frontend
+- **Description:** The frontend codebase for the Eventon project, focused on providing a seamless user interface for interacting with Eventon's functionalities.
+- **GitHub URL:** [eventon-frontend](https://github.com/Ton-Dynasty/eventon-frontend)
+
 
 ### Important Projects
 
 #### tondynasty-contracts
-- **Language:** Tact
 - **Description:** Ton-Dynasty Contracts is a library for efficient smart contract development by tact-lang.
 - **GitHub URL:** [eventon-doc](https://github.com/Ton-Dynasty/tondynasty-contracts)
+
+#### docs.contracts
+- **Description:** Ton Dynasty Contracts documents. A comprehensive documentation repository for contracts developed under the Ton Dynasty banner, facilitating understanding and integration for developers.
+- **GitHub URL:** [docs.contracts](https://github.com/Ton-Dynasty/docs.contracts)
 
 #### pytoncenter
 - **Description:** An asynchronous TON Center client SDK supporting V2 and V3. It features subscription services, transaction flows, parallel processing, and debugging tools for the TON blockchain.
