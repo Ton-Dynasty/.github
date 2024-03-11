@@ -1,7 +1,7 @@
 # Welcome to Ton-Dynasty! 🚀
 <a href="https://t.me/TictonOfficial" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://medium.com/@tondynasty824" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCZKY67tWMQiYX1780yDzH-g?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCZKY67tWMQiYX1780yDzH-g">
+<a href="https://www.youtube.com/channel/UCZKY67tWMQiYX1780yDzH-g" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCZKY67tWMQiYX1780yDzH-g?style=for-the-badge&logo=youtube&logoColor=white">
 
 
 
