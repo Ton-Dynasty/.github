@@ -18,7 +18,7 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 ## Our Projects
 
 <a href="https://youtu.be/_EwAkiGiw-U?si=sOhu34ODj0kXfXgI">
-  <img src="https://github.com/Ton-Dynasty/ticton-oracle-automation/assets/87699256/908f33c6-b2f1-4f79-bf8b-ad132c364929" style="width: 100%;" alt="TicTon Tournament">
+  <img src="https://github.com/Ton-Dynasty/.github/assets/48343225/df5ec2d5-9244-422e-9eb2-afea341c0518" style="width: 100%;" alt="TicTon Tournament">
 </a>
 
 
