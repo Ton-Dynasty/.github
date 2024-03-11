@@ -1,4 +1,10 @@
 # Welcome to Ton-Dynasty! 🚀
+<a href="https://t.me/TictonOfficial" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://medium.com/@tondynasty824" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCZKY67tWMQiYX1780yDzH-g?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCZKY67tWMQiYX1780yDzH-g">
+
+
+
 ## Introduction
 Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the Oracle space on the TON blockchain. At Ton-Dynasty, we're not just building technology; we're crafting a new future for decentralized finance (DeFi) and beyond. Our mission is to create robust, transparent, and efficient Oracle solutions that empower developers, businesses, and end-users alike. With a focus on innovation, security, and community collaboration, we're here to drive the next wave of blockchain technology.
 
