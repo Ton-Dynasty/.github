@@ -7,7 +7,7 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
   - PSE: 1st Place
   - Blocto: 1st Place
 - **TON Workshop 2023** : 3rd Place
-- **TONTECH NFT Royalty contest 2023** : Honorable Mention
+- **TONTECH NFT Royalty contest 2023** : Awarded
 
 ## Our Projects
 ### Ticton
