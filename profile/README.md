@@ -43,11 +43,11 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 
 #### winder
 - **Description:** This bot is an arbitrage tool that monitors Alarm quotes on the Oracle, comparing TON/USDT's average market price from various exchanges.
-- **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-oracle-automation](https://github.com/Ton-Dynasty/winder)
+- **GitHub URL:** [https://github.com/Ton-Dynasty/winder](https://github.com/Ton-Dynasty/winder)
 
 #### ticker
 - **Description:** A simple farming bot for earning TIC token from oracle without any risk.
-- **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-oracle-automation](https://github.com/Ton-Dynasty/ticker)
+- **GitHub URL:** [https://github.com/Ton-Dynasty/ticker](https://github.com/Ton-Dynasty/ticker)
 
 -----
 <p align="center">
