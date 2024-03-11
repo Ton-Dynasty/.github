@@ -3,7 +3,7 @@
 Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the Oracle space on the TON blockchain. At Ton-Dynasty, we're not just building technology; we're crafting a new future for decentralized finance (DeFi) and beyond. Our mission is to create robust, transparent, and efficient Oracle solutions that empower developers, businesses, and end-users alike. With a focus on innovation, security, and community collaboration, we're here to drive the next wave of blockchain technology.
 
 ## Team Tournament History
-- **ETH Taipei**
+- **ETH Taipei 2023**
   - PSE: 1st Place
   - Blocto: 1st Place
 - **TON Workshop 2023**
