@@ -18,6 +18,8 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 ## Our Projects
 ### Ticton
 
+[![TicTon Tournament](https://img.youtube.com/vi/LCuTCQmP_rI/0.jpg)](https://youtu.be/LCuTCQmP_rI?si=mw8UUdYLYE3EUkSF)
+
 #### ticton-v0
 - **Description:** Innovative price oracle for TON.
 - **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-v0](https://github.com/Ton-Dynasty/ticton-v0)
@@ -51,7 +53,6 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 - **GitHub URL:** [eventon](https://github.com/Ton-Dynasty/eventon)
 
 #### eventon-doc
-- **Language:** JavaScript
 - **Description:** Document for Eventon. This repository hosts essential documentation for the Eventon project, aimed at providing users and developers with all the information needed to utilize and contribute to Eventon.
 - **GitHub URL:** [eventon-doc](https://github.com/Ton-Dynasty/eventon-doc)
   
