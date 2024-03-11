@@ -16,9 +16,13 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 - **TONTECH NFT Royalty contest 2023** : Awarded
 
 ## Our Projects
-### Ticton
 
-[![TicTon Tournament](https://img.youtube.com/vi/LCuTCQmP_rI/0.jpg)](https://youtu.be/LCuTCQmP_rI?si=mw8UUdYLYE3EUkSF)
+<a href="https://youtu.be/_EwAkiGiw-U?si=sOhu34ODj0kXfXgI">
+  <img src="https://github.com/Ton-Dynasty/ticton-oracle-automation/assets/87699256/908f33c6-b2f1-4f79-bf8b-ad132c364929" style="width: 100%;" alt="TicTon Tournament">
+</a>
+
+
+### Ticton
 
 #### ticton-v0
 - **Description:** Innovative price oracle for TON.
@@ -45,6 +49,10 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 - **Description:** A simple farming bot for earning TIC token from oracle without any risk.
 - **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-oracle-automation](https://github.com/Ton-Dynasty/ticker)
 
+-----
+<p align="center">
+<img src="https://github.com/Ton-Dynasty/eventon/blob/main/utils/eventon.png?raw=true" alt="Eventon" width="200" height="158.95522">
+</p>
 
 ### Eventon
 
