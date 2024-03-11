@@ -26,9 +26,6 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 - **Description:** A comprehensive SDK for developers looking to integrate or interact with the TicTon Oracle. Enables the crafting of custom quoting strategies using TicTon technology.
 - **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-python-sdk](https://github.com/Ton-Dynasty/ticton-python-sdk)
 
-#### ticton-oracle-automation
-- **Description:** This bot is an arbitrage tool that monitors Alarm quotes on the Oracle, comparing TON/USDT's average market price from various exchanges.
-- **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-oracle-automation](https://github.com/Ton-Dynasty/ticton-oracle-automation)
 
 #### ticton-v0-interface
 - **Description:** This is the official website of Tic Ton, which will be updated gradually in the future.
@@ -37,6 +34,10 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 #### ticton-playground
 - **Description:** This repository hosts the tutorial for the TICTON quote testing. Refer to the document or tutorial video to learn how to quote.
 - **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-playground](https://github.com/Ton-Dynasty/ticton-playground)
+
+#### winder
+- **Description:** This bot is an arbitrage tool that monitors Alarm quotes on the Oracle, comparing TON/USDT's average market price from various exchanges.
+- **GitHub URL:** [https://github.com/Ton-Dynasty/ticton-oracle-automation](https://github.com/Ton-Dynasty/ticton-oracle-automation)
 
 
 ### Eventon
