@@ -73,7 +73,7 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 
 #### tondynasty-contracts
 - **Description:** Ton-Dynasty Contracts is a library for efficient smart contract development by tact-lang.
-- **GitHub URL:** [eventon-doc](https://github.com/Ton-Dynasty/tondynasty-contracts)
+- **GitHub URL:** [tondynasty-contracts](https://github.com/Ton-Dynasty/tondynasty-contracts)
 
 #### docs.contracts
 - **Description:** Ton Dynasty Contracts documents. A comprehensive documentation repository for contracts developed under the Ton Dynasty banner, facilitating understanding and integration for developers.
