@@ -10,10 +10,11 @@ Welcome to Ton-Dynasty, a pioneering collective committed to revolutionizing the
 
 ## Team Tournament History
 - **ETH Taipei 2023**
-  - PSE: 1st Place
-  - Blocto: 1st Place
-- **TON Workshop 2023** : 3rd Place
-- **TONTECH NFT Royalty contest 2023** : Awarded
+  - PSE: 1st Place 🥇
+  - Blocto: 1st Place 🥇
+- **TON Workshop 2023** : 3rd Place 🥉
+- **TONTECH NFT Royalty contest 2023** : Awarded 🎖️
+- **TON Workshop 2024** : 3rd Place 🥉
 
 ## Our Projects
 
